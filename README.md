@@ -130,3 +130,12 @@ Poniższe pliki zawierają pełną specyfikację techniczną, opisy mechanizmów
 * **Grafika (HAL):** Abstrakcyjna warstwa renderująca (Liniowy Bufor Ramki) wybierająca natywnie między UEFI GOP a Legacy VESA.
 * **Storage i Pliki:** Własny sterownik dysków twardych AHCI SATA. System BSP używa sektorów 512B natywnie zmapowanych na bloki dyskowe.
 
+# Aktualności publikuję w social mediach
+
+* [Bursztyn OS grupa na facebook](https://www.facebook.com/groups/1326574195000729)
+* [Facebook Bursztyn OS na facebook](https://www.facebook.com/profile.php?id=61583559527269)
+* [Facebook Programista Art](https://www.facebook.com/people/Programista-Art/61563368962907/)
+* [Kanał YouTube](https://www.youtube.com/@programistaart)
+* [Discord społeczności](https://discord.gg/ugVS27Mxh)
+
+## Podoba Ci się Bursztyn OS? Możesz wesprzeć rozwój systemu na : [Zrzutce](zrzutka.pl/z/programista-art-fb) lub na [Patronite](https://patronite.pl/programista-art)
