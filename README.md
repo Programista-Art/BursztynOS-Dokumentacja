@@ -138,4 +138,4 @@ Poniższe pliki zawierają pełną specyfikację techniczną, opisy mechanizmów
 * [Kanał YouTube](https://www.youtube.com/@programistaart)
 * [Discord społeczności](https://discord.gg/ugVS27Mxh)
 
-## Podoba Ci się Bursztyn OS? Możesz wesprzeć rozwój systemu na : [Zrzutce](zrzutka.pl/z/programista-art-fb) lub na [Patronite](https://patronite.pl/programista-art)
+## Podoba Ci się Bursztyn OS? Możesz wesprzeć rozwój systemu na : [Zrzutce](https://zrzutka.pl/2k3z6u) lub na [Patronite](https://patronite.pl/programista-art)
