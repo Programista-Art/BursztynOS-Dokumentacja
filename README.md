@@ -10,6 +10,7 @@ Jądro, zarządzanie pamięcią, system procesów, sterowniki, środowisko grafi
 
 Repozytorium na GitHub jest prywatne
 
+### Niniejsze repozytorium zawiera wyłącznie dokumentację techniczną i specyfikację API systemu Bursztyn OS. Sam system operacyjny Bursztyn OS, jego pliki binarne oraz kod źródłowy jądra są oprogramowaniem własnościowym o zamkniętym kodzie źródłowym (proprietary / closed-source), podlegającym odrębnej, komercyjnej licencji.  
 
 ---
 
